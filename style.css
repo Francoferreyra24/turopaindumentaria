@@ -1,0 +1,29 @@
+.contenedor1{
+    text-align: center;
+    margin: auto;
+}
+.centered-container{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    
+}
+.col-auto{
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+.nav-item{
+list-style-type: none;
+}
+.buzos{
+    margin: auto;
+    padding: 2px;;
+}
+.carousel-inner{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
