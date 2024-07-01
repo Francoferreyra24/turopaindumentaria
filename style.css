@@ -27,3 +27,20 @@ list-style-type: none;
     text-align: center;
     margin: auto;
 }
+.col{
+    background-color: black;
+    color:darkgoldenrod
+}
+.d-block {
+    width: 700px;
+    height: 700px;
+}
+
+.h2{
+    text-align: center;
+    color: rgb(251, 249, 252);
+    background-color: black;
+}
+.navbar-brand{
+    color: darkgoldenrodnavbar-brand;
+}
